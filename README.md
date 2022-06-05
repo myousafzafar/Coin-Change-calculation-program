@@ -1,2 +1,2 @@
 # Coin-Change-calculation-program
-This C++ program calculates the number of half dollars, quarters, dimes, nickels and pennies from a given change.
+This C++ program calculates the number of half dollars, quarters, dimes, nickels and pennies from a given change in cents.
